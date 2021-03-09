@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @ulyalana124
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning js
-- 💞️ I’m looking for new job
-- 📫 How to reach me: email ulanasadikova65@gmail.com
+# Hi 👋, I am *Uliana Sadykova* !
+## I am beginer front-end developer
+>**Contact Information:**  
+**Location: Lviv region**  
+**Phone: _+380954037296_**  
+**E-mail: ulanasadikova65@gmail.com**  
+**LinkedIn: https://www.linkedin.com/in/ulyalana124/**  
+  
+--- 
+### About me:  
+  I want to became a great front-end developer, work with cool people on interesting projects.
+My dream is to make my hobby a matter of my life.
+ 
+### My skills:  
+**_Programming Languages/ Technologies_**  
+![JavaScript]  
+![HTML]
+![CSS]
+![GIT]
+![SASS]
+![jQuerry]
 
-<!---
-ulyalana124/ulyalana124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**_Methodology_**  
+![Agile] 
+
+**_Languages_**  
+![Ukrainian] 
+![English] 
+![Russian]  
