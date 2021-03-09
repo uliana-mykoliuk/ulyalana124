@@ -13,17 +13,17 @@ My dream is to make my hobby a matter of my life.
  
 ### My skills:  
 **_Programming Languages/ Technologies_**  
-![JavaScript]  
-![HTML]
-![CSS]
-![GIT]
-![SASS]
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=plastic&logo=JavaScript)  
+![HTML](https://img.shields.io/badge/-HTML-090909?style=plastic&logo=html5)  
+![CSS](https://img.shields.io/badge/-CSS-090909?style=plastic&logo=css3)  
+![GIT](https://img.shields.io/badge/-GIT-090909?style=plastic&logo=git)  
+![SASS](https://img.shields.io/badge/-SASS-090909?style=plastic&logo=sass)  
 ![jQuerry]
 
 **_Methodology_**  
-![Agile] 
+![Agile](https://img.shields.io/badge/-Agile-090909?style=plastic&logo=agile)  
 
 **_Languages_**  
-![Ukrainian] 
-![English] 
-![Russian]  
+![Ukrainian](https://img.shields.io/badge/Ukrainian-native-yellowgreen)  
+![English](https://img.shields.io/badge/English-pre_intermediate-yellowgreen)  
+![Russian](https://img.shields.io/badge/Russian-intermediate-yellowgreen)    
