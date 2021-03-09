@@ -18,7 +18,7 @@ My dream is to make my hobby a matter of my life.
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=plastic&logo=css3)  
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=plastic&logo=git)  
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=plastic&logo=sass)  
-![jQuerry]
+![jQuerry](https://img.shields.io/badge/-jQuerry-090909?style=plastic&logo=jquerry)
 
 **_Methodology_**  
 ![Agile](https://img.shields.io/badge/-Agile-090909?style=plastic&logo=agile)  
