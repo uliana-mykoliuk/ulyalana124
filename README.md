@@ -21,7 +21,7 @@ My dream is to make my hobby a matter of my life.
 ![jQuerry](https://img.shields.io/badge/-jQuerry-090909?style=plastic&logo=jquerry)
 
 **_Methodology_**  
-![Agile](https://img.shields.io/badge/-Agile-090909?style=plastic&logo=agile)  
+![Agile&Scrum](https://img.shields.io/badge/-Agile&Scrum-090909?style=plastic&logo=agile&scrum)  
 
 **_Languages_**  
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-native-yellowgreen)  
