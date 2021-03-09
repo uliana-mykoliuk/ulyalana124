@@ -25,5 +25,5 @@ My dream is to make my hobby a matter of my life.
 
 **_Languages_**  
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-native-yellowgreen)  
-![English](https://img.shields.io/badge/English-pre_intermediate-yellowgreen)  
+![English](https://img.shields.io/badge/English-intermediate-yellowgreen)  
 ![Russian](https://img.shields.io/badge/Russian-intermediate-yellowgreen)    
